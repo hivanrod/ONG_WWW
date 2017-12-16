@@ -1,0 +1,11 @@
+E:\GITHUB\ONG_WWW\ONG1\ONG1\bin\Debug\netcoreapp2.0\ONG1.deps.json
+E:\GITHUB\ONG_WWW\ONG1\ONG1\bin\Debug\netcoreapp2.0\ONG1.runtimeconfig.json
+E:\GITHUB\ONG_WWW\ONG1\ONG1\bin\Debug\netcoreapp2.0\ONG1.runtimeconfig.dev.json
+E:\GITHUB\ONG_WWW\ONG1\ONG1\bin\Debug\netcoreapp2.0\ONG1.dll
+E:\GITHUB\ONG_WWW\ONG1\ONG1\bin\Debug\netcoreapp2.0\ONG1.pdb
+E:\GITHUB\ONG_WWW\ONG1\ONG1\obj\Debug\netcoreapp2.0\ONG1.csprojResolveAssemblyReference.cache
+E:\GITHUB\ONG_WWW\ONG1\ONG1\obj\Debug\netcoreapp2.0\ONG1.csproj.CoreCompileInputs.cache
+E:\GITHUB\ONG_WWW\ONG1\ONG1\obj\Debug\netcoreapp2.0\ONG1.AssemblyInfoInputs.cache
+E:\GITHUB\ONG_WWW\ONG1\ONG1\obj\Debug\netcoreapp2.0\ONG1.AssemblyInfo.cs
+E:\GITHUB\ONG_WWW\ONG1\ONG1\obj\Debug\netcoreapp2.0\ONG1.dll
+E:\GITHUB\ONG_WWW\ONG1\ONG1\obj\Debug\netcoreapp2.0\ONG1.pdb
